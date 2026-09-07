@@ -144,7 +144,7 @@ For detailed information, please see the dedicated [Publications](publications.m
 ---
 
 ## Suggested Citation
-**Forest/Tree cover Dataset**: Freitas Beyer, J., Köthke, M., & Lippe, M. (2026). GEOS-EUDR:  Dataset Catalog - Forest Metadata (Version 1.0). Zenodo. https://10.5281/zenodo.20698510
+**Forest/Tree cover Dataset**: Freitas Beyer, J., Köthke, M., & Lippe, M. (2026). GEOS-EUDR:  Dataset Catalog - Forest Metadata (Version 1.0). Zenodo. **https://10.5281/zenodo.20698510](https://zenodo.org/records/20698510
 
 ---
 
