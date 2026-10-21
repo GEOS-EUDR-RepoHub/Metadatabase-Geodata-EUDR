@@ -1,7 +1,7 @@
 <img width="4336" height="2530" alt="dataset_theme_distribution_nature_style_grey_v2" src="https://github.com/user-attachments/assets/5faeb3e9-12b4-4cbd-82fd-d57c1fcc3557" />
 
 # A curated metadatabase for supporting EUDR supply chain monitoring
-A curated catalogue of metadata for published, and publicly available (open access) spatial datasets related to forests and commodities at global, regional and national scales, which are particularly relevant to EU regulation of deforestation-free products (EUDR).
+A curated catalogue of metadata for published, and publicly available (open access) spatial datasets related to forests and commodities at global, regional and national scales, which are particularly relevant to the European Union Deforestation Regulation (EUDR) (Regulation (EU) 2023/1115). 
 
 ## Overview
 
